@@ -6,7 +6,7 @@ A comprehensive data science competition designed to challenge **data preprocess
 
 ---
 
-> **Dataset link:** [Download Dataset](https://drive.google.com/drive/folders/1rcXGCGTcKcbbqdccqe8vxaWnCWswvW1r?usp=sharing)
+> **Dataset link:** [Download Data](https://drive.google.com/drive/folders/1rcXGCGTcKcbbqdccqe8vxaWnCWswvW1r?usp=sharing)
 
 > **Slides:** [View Slides](https://www.canva.com/design/DAGzguMz-AA/H-U0oIATRvkDNogY5XR7Kw/edit?utm_content=DAGzguMz-AA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -36,7 +36,7 @@ A comprehensive data science competition designed to challenge **data preprocess
 ---
 
 ## Workflow
-1.  Standardize and concatthe 4 training batches.
+1.  Standardize and concating 4 training batches.
 2. Explore the dataset and identify data quality issues.  
 3. Handle missing values,and inconsistencies.
 4. Analysing data to gain insights.   
