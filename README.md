@@ -7,8 +7,9 @@ A comprehensive data science competition designed to challenge **data preprocess
 
 ---
 
-> **Dataset link:** [Download Dataset]((https://drive.google.com/drive/folders/1rcXGCGTcKcbbqdccqe8vxaWnCWswvW1r?usp=sharing))  
-> **Slides:** [View Slides]((https://www.canva.com/design/DAGzguMz-AA/H-U0oIATRvkDNogY5XR7Kw/edit?utm_content=DAGzguMz-AA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+> **Dataset link:** [Download Dataset](https://drive.google.com/drive/folders/1rcXGCGTcKcbbqdccqe8vxaWnCWswvW1r?usp=sharing)
+
+> **Slides:** [View Slides](https://www.canva.com/design/DAGzguMz-AA/H-U0oIATRvkDNogY5XR7Kw/edit?utm_content=DAGzguMz-AA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
